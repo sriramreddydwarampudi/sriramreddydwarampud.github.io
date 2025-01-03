@@ -1,255 +1,459 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/ADHD/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/alternatives/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Ancestors%20people%20dealt/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/browser-support/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Attention/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/conventions/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Cognitive%20meanings%20of%20abstracts/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/creating-your-site/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Collected_Definition_Headings/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/customization/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Contacts/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/enterprise-support/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Focus%20states/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/getting-started/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Glossary/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/license/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Interpersonal%20problems/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/philosophy/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Living/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/publishing-your-site/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Love%20or%20hate/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/support/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Love/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/upgrade/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Managing%20relationship/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Marriage/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2023/11/30/adding-a-badge-to-your-project/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Meaning%20to%20live/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2022/09/12/blog-support-just-landed/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Meaningful%20time/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2022/05/05/chinese-search-support/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/News/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2021/09/26/excluding-content-from-search/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Note%20taking/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2023/09/22/using-git-sparse-checkout-for-faster-documentation-builds/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Obisidian/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2021/09/13/search-better-faster-smaller/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Positive%20relationship/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2023/10/02/sunsetting-gitter-towards-efficient-community-engagement/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Publishing/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2021/12/27/the-past-present-and-future/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Quicknote/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/2024/08/19/how-were-transforming-material-for-mkdocs/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Rage/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/changelog/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Read/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/contributing/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Root/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/contributing/adding-translations/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Social%20norms/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/contributing/making-a-pull-request/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Time%20table/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/contributing/reporting-a-bug/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Time/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/contributing/reporting-a-docs-issue/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Trail%20heading/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/contributing/requesting-a-change/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Treat/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/guides/creating-a-reproduction/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Understanding/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Untitled/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/access-management/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Value/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/benefits/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/What%20not%20to%20do/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/getting-started/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dashboard/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/how-to-sponsor/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/having%20child/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/license/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/%28Wed%2911-09-2024/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/our-sponsors/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/2024-09-11/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/payment-and-billing/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/2024-09-12/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/privacy/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/2024-09-13/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/runtime-and-cancellation/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/2024-09-14/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/sponsoring-tiers/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/2024-09-15/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/upgrade/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/Daily/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/why-sponsor-us/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/Dashboard/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/changelog/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/Daily/Tasks/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/insiders/community-experts-program/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/assets/templater/Date/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/assets/templates/Topic/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/blog/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/blog/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/group/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/1.0%20parts%20of%20speech/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/info/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/1.1%20Determination%20of%20parts%20of%20speech/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/meta/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/1.3/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/offline/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/2.0%20Trees/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/optimize/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/2.1%20representation%20of%20tree/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/privacy/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/2.2%20components%20in%20tree/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/projects/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/2.4%20Rules%20in%20tree/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/search/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/3.0%20binding%20theory/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/social/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/Introduction/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/tags/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/PMS/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/typeset/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/card/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/requirements/caching/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/contents/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/dentascript/prepositions/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
     <url>
-         <loc>https://sriramreddydwarampudi.github.io/relationships/Intro/</loc>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/admonitions/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/annotations/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/buttons/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/code-blocks/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/content-tabs/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/data-tables/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/diagrams/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/footnotes/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/formatting/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/grids/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/images/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/lists/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/math/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/reference/tooltips/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/building-an-optimized-site/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/building-for-offline-usage/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/ensuring-data-privacy/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-a-blog/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/extensions/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/tutorials/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/tutorials/blogs/basic/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/tutorials/blogs/engage/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/tutorials/blogs/navigation/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/tutorials/social/basic/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/tutorials/social/custom/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/archive/2024/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/archive/2023/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/archive/2022/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/archive/2021/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/category/general/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/category/build/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/category/performance/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/category/blog/</loc>
+         <lastmod>2025-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/blog/category/search/</loc>
          <lastmod>2025-01-03</lastmod>
     </url>
 </urlset>
